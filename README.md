@@ -2,9 +2,12 @@
 
 Assignment for Programming Data Analysis - An Investigation into the numpy.random package.
 
-This repository contains a Jupyter Notebook, a gitignore file, and a licence.
 
-# Installation and Running
+# Contents
+
+Jupyter Notebook, a gitignore file, and a licence.
+
+## Installation and Running
 
 This was run on Pyhton version: 3.6.3 |Anaconda custom (64-bit)| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)] This can be downloaded and installed on https://www.anaconda.com/ 
 
