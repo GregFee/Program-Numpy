@@ -1,6 +1,6 @@
 # Program-Numpy
 
-Assignment for Programming Data Analysis - An Investigation into the numpy.random package.
+Assignment for Programming Data Analysis - An Investigation into the numpy.random package. The package generates random numbers that then enables you to work with the numeric data. 
 
 
 # Contents
